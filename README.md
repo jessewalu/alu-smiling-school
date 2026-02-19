@@ -55,10 +55,10 @@ Simply open the respective HTML files in a browser to view the pages.
 ![Homepage](images/smile-school.png)
 
 ### Courses Page
-*Add screenshot if available*
+![alt text](image.png)
 
 ### Pricing Page
-*Add screenshot if available*
+![alt text](image-1.png)
 
 ## 🤝 Contributing
 
