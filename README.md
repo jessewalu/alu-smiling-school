@@ -31,7 +31,7 @@ The website showcases the school's offerings, including courses, pricing, and ge
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mahiuha/alx-smiling-school.git
+   git clone https://github.com/jessewalu
    ```
 2. Navigate to the project directory:
    ```bash
